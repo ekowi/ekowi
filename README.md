@@ -13,7 +13,6 @@ open to remote freelance work.
   <a href="https://links.ekowidodo.co.id/@ekowi"><img src="https://img.shields.io/badge/Linkstack-all%20links-1abc9c?style=flat-square" alt="Linkstack"/></a>
   <a href="https://www.linkedin.com/in/eko-widodo-70568021b"><img src="https://img.shields.io/badge/LinkedIn-Eko%20Widodo-0a66c2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:me@ekowidodo.co.id"><img src="https://img.shields.io/badge/Email-me@ekowidodo.co.id-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  // <a href="https://wa.me/6282112275871"><img src="https://img.shields.io/badge/WhatsApp-+62_821_1227_5871-25d366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://github.com/ekowi"><img src="https://img.shields.io/github/followers/ekowi?style=flat-square" alt="Followers"/></a>
 </p>
 
